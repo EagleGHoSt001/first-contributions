@@ -12,6 +12,7 @@
 - [Nandan](https://github.com/21Nandan) - my first contribuation to the amazing world of open source!
 - [Test_dev]
 - [DustanGiles](https://github.com/DustanGiles) - wow my first contribuation to the amazing world of open source!
+- [Mriganka Bhowmick](https://github.com/EagleGHoSt001/) - I am learning how to contribute to open source. Thank You.
 - [Khursheed Alam Khan](https://github.com/KhursheedAK) - Hello, world! This is my very first Open-Source-Contribution.
 >>>>>>> upstream/main
 - [Anshu Mehta](https://github.com/khushwahaarun204-jpg) - First open source contribution!! HI GITHUB i have officially landed here!! 
